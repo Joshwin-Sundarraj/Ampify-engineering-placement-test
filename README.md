@@ -1,5 +1,5 @@
 # Ampify engineering placement test JSON parser
-Within this repository is the my solutions to the tasks set.
+Within this repository is my solutions to the tasks set.
 ## Tools used:
 + **Jupyter Notebook**: Initially I had opted to utilise the pandas libraray to display the information as a table but noticed that I was simply asked to produce a list of genres and packs.
 + **Replit IDE**: An online Integrated Development Environment that allows for one to create projects in multiple languages.
